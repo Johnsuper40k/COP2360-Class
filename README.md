@@ -1,2 +1,2 @@
-# COP2360-Class
+# COP2360-Class C# programming
 Assignments
